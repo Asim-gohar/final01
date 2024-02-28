@@ -110,7 +110,7 @@ hr { border: 1px solid #ccc;
     width: 100%;
     text-align: center;
     padding: 30px;
-    background-color: rgb(86, 73, 73);
+    background-color: rgb(74, 78, 84);
     
 }
 
@@ -203,10 +203,7 @@ hr {
  
 
 }
-.blog-h1{
-  border: 4em ;
-  /* background: #09e5b2; */
-}
+
 
 .nav-item {
   margin-left: auto; /* Adjust the margin as needed */

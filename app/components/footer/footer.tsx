@@ -9,7 +9,7 @@ import Contact from '@/app/contact/page';
 
 const Footer = () => {
     return (
-        <main className='md:text-[14px] sm:text-[16px]  xl:text-[20px] 2xl:text-[26px]'> 
+        <main className='md:text-[14px] sm:text-[16px]  xl:text-[20px] 2xl:text-[26px] px-20'> 
 
             <section className="footer">
                 <hr />
@@ -48,7 +48,7 @@ const Footer = () => {
             <hr />
             <Link href="#"><h4 className='md:text-[14px] sm:text-[16px]  xl:text-[20px] 2xl:text-[26px]'>
                 follow Us on</h4></Link>
-                <div className="icons">
+               <div className="icons">
                     <Link href="https://www.facebook.com/profile.php?id=100036069652618&mibextid=ZbWKwL"><i className="fab fa-facebook-f"></i><FaFacebookF style={{ color: '#1877F2' }} /></Link>
                     <Link href="https://instagram.com/asimbutt3349?igshid=NGVhN2U2NjQ0Yg=="><i className="fab fa-instagram"></i><FaInstagram style={{ color: '#dd2a7b' }} /></Link>
                     <Link href="#"><i className="fab fa-twitter"></i><FaTwitter style={{ color: '#1DA1F2' }} /></Link>
